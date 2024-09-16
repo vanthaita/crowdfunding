@@ -1,0 +1,1 @@
+forge script script/deployWeb3CrowFunding.s.sol --rpc-url ${SEPOLIA_RPC_URL} --account foundry-account --broadcast
